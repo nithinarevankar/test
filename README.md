@@ -55,4 +55,4 @@
 git clone https://github.com/yourusername/PortfolioX.git
 cd PortfolioX
 npm install
-npm run dev
+npm start
